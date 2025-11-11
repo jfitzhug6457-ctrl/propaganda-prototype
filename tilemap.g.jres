@@ -1,0 +1,176 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAB1d3d3d3d3d3d30XZ3F3Z3dTcRY3dxcVd3EXbRdxd5d3cRedF3d3d3dzcRY3d3d3d3d9F2F3Z3d3d3d3dxcXd3d3d3dxd5d3d3V5V3d3d3d3d3d1d1F213d3d3VXkTMXZ3YXdnF2EXfRcXd3cXkRd9d5F3d3cTMXZ3d3d3dxdtdw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "level4": {
+        "id": "level4",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBjMGMwYzBjMDQxMDAzMDMwMzBmMDEwMTBiMDQwYTBhMDEwYzA3MGMwNDAyMDUwNTA1MDgwMTA0MGMwYzBhMGEwMTAxMDEwMTA0MDIwNTA1MDUwODA0MDQwNDBiMGEwYTEwMDMwMzAzMDMwNTA1MDUwNTA1MDMwMzAzMDMwMzBmMDIwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDgwMjA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwODAyMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA4MTEwNjA2MDYwNjA1MDUwNTA1MDUwNjA2MDYwNjA2MGUwMTA0MDQwNDAxMDIwNTA1MDUwODA3MDcwOTBiMGEwYTA0MDEwYzBjMDQwMjA1MDUwNTA4MDEwYjBjMDkwOTBhMDEwNDBjMGMwNDAyMDUwNTA1MDgwNzA3MGMwZDA5MGEwMTBjMDQwYzA0MDIwNTA1MDUwODA3MGMwYjBiMDkwYTAxMGMwYzAxMDQwMjA1MDUwNTA4MDcwYzAxMDkwOTBhMGMwMTBjMDEwNDAyMDUwNTA1MDgwMTBhMGEwMTA5MGEwYzA0MGMwMTA0MDIwNTA1MDUwODAxMDcwYzA5MDkwYTBjMDQwMTAxMDExMTA2MDYwNjBlMDEwYTBjMGIwYTBhMDAwMDAyMDAwMDAyMDAwMDAwMDAwMjAwMDAwMjAwMDAyMjIyMDIwMDAwMjIyMjIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMDIwMDAwMjIyMjIyMDAwMDAyMDAwMDAyMDAwMDAwMDAwMjAwMDAwMjAwMDAwMDAwMDIwMDAwMDIwMDAwMDAwMDAyMDAwMDAyMDAwMDAwMDAwMjAwMDAwMjAwMDAwMDAwMDIwMDAwMDIwMDAwMDAwMDAyMDAwMDAyMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.field1",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath7"
+        ],
+        "displayName": "level0"
+    },
+    "level3": {
+        "id": "level3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDEwMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMGYwZjExMGQxNDEyMTIxMjEyMTIxMjEyMTIxMjEyMTIxMjEzMGUwZDE1MDIwYjA1MDEwMTAxMDEwMTAxMDIwYjA1MTkwZTBkMTUwOTFhMGMwMTAxMDEwMTAxMDEwOTFhMGMxOTBlMGQxNTAzMGEwNDAxMDEwMTAxMDEwMTAzMGEwNDE5MGUwZDE1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMTkwZTBkMTUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDExOTBlMGQxNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTE5MGUwZDE1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMTkwZTBkMTUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDExOTBlMGQxNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTE5MGUwZDE1MDIwYjA1MDEwMTAxMDEwMTAxMDIwYjA1MTkwZTBkMTUwOTFiMGMwMTAxMDEwMTAxMDEwOTFiMGMxOTBlMGQxNTAzMGEwNDAxMDEwMTAxMDEwMTAzMGEwNDE5MGUwZDE2MTcxNzE3MTcxNzE3MTcxNzE3MTcxNzE3MTgwZTA2MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA4MjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.greenInnerNorthWest",
+            "sprites.dungeon.greenInnerSouthWest",
+            "sprites.dungeon.greenInnerSouthEast",
+            "sprites.dungeon.greenInnerNorthEast",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterEast2",
+            "sprites.dungeon.greenOuterNorth2",
+            "sprites.dungeon.greenOuterSouth2",
+            "sprites.dungeon.greenOuterWest2",
+            "sprites.dungeon.greenOuterWest1",
+            "sprites.dungeon.greenOuterEast1",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.stairNorth",
+            "sprites.dungeon.stairSouth"
+        ],
+        "displayName": "level3"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA5MDkwOTA5MDQwYzAzMDMwMzBiMDEwMTA0MDQwMTAxMDEwOTA3MDkwNDAyMDUwNTA1MDgwMTA0MDkwOTA0MDEwMTAxMDEwMTA0MDIwNTA1MDUwODA0MDQwNDA3MDcwNzBjMDMwMzAzMDMwNTA1MDUwNTA1MDMwMzAzMDMwMzBiMDIwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDgwMjA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwODAyMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA4MGQwNjA2MDYwNjA1MDUwNTA1MDUwNjA2MDYwNjA2MGEwMTA0MDQwNDAxMDIwNTA1MDUwODA3MDcwNzAxMDEwNzA0MDEwOTA5MDQwMjA1MDUwNTA4MDEwNDA0MDQwNDAxMDEwNDA5MDkwNDAyMDUwNTA1MDgwNzA3MDEwNDAxMDQwMTA5MDQwOTA0MDIwNTA1MDUwODA3MDkwNDA0MDQwMTAxMDkwOTAxMDQwMjA1MDUwNTA4MDcwOTA0MDQwNDAxMDkwMTA5MDEwNDAyMDUwNTA1MDgwMTA0MDQwNDAxMDEwOTA0MDkwMTA0MDIwNTA1MDUwODAxMDEwOTA0MDEwNDA5MDQwMTAxMDEwZDA2MDYwNjBhMDEwNDA5MDQwNDA0MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tilePath6",
+            "sprites.skillmap.islandTile4",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath7"
+        ],
+        "displayName": "level1"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAzMDMwMzAzMDMwMzA3MDcwNzA3MDMwMzAzMDMwMzAzMDMwMjAyMDIwMjAyMDEwMTAxMDEwMjAyMDIwMjA0MDMwMzAyMDIwMjAyMDIwMTAxMDEwMTAyMDIwMjAyMDIwMzAzMDIwMjAyMDIwMjAxMDEwMTAxMDIwMjAyMDIwMjAzMDMwMjAyMDIwMjAyMDEwMTAxMDEwMjAyMDIwMjAyMDMwMzAyMDIwMjAyMDIwMTAxMDEwMTAyMDIwMjAyMDIwMzA2MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDYwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwNjAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzA2MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDMwMjAyMDIwMjAyMDEwMTAxMDEwNTA1MDUwNTA1MDMwMzAyMDIwMjAyMDIwMTAxMDEwMTA1MDIwMjAyMDIwMzAzMDIwMjAyMDIwMjAxMDEwMTAxMDUwMjAyMDIwMjAzMDMwMjAyMDIwMjAyMDEwMTAxMDEwNTAyMDIwMjAyMDMwMzAyMDIwMjAyMDIwMTAxMDEwMTA1MDIwMjAyMDIwMzAzMDMwMzAzMDMwMzA4MDgwODA4MDMwMzAzMDMwMzAzMjIyMjIyMDAwMDIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMDAwMDIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.builtin.brick",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath8"
+        ],
+        "displayName": "level2"
+    },
+    "level6": {
+        "id": "level6",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBmMDQwNDBlMDQxMDBlMDQwNDBlMTAxMDBlMTAxMDA1MTEwMTAxMDEwMTAxMDYwMTAxMDEwMTAxMDEwMTAxMDYxMTAxMDMwMTAxMDEwNjAxMDEwMTAxMDEwMTAzMDEwNjBkMDEwMTAxMDEwMTA2MDEwMTAxMDEwMTAxMDEwMTBiMDcwMTA5MDkwOTA5MTQwMTAxMDgwOTA5MDkwMTAxMTIwNzAxMDEwMTExMDEwMTAxMDEwNjAxMDEwMTAxMDExMjBkMDEwNjAxMTEwMTExMDEwMTA2MDEwMTAxMDEwMTBiMTEwMTA2MDEwMTAxMTEwMTAxMDYwMTA2MDEwYTBhMDYxMTBhMGEwYTBhMGEwYTAxMDEwNjAxMDYwMTAxMDEwNjBkMDEwMTAxMDcwMTAxMDEwMTAxMDEwNjAxMDEwMTBiMTEwMTA3MDEwMTAxMDcwMTAxMDEwMTA2MGEwYTAxMTIwNzA0MDQwNDA0MDQwNDA0MDQwNTAxMDYwMTAxMDExMjBkMDEwMTAxMDEwNjAxMDEwMTA2MDEwNjAxMGEwYTEyMTEwMTAxMDcwMTA2MDEwNzAxMDYwMTA2MDEwMjAxMDYxMTAyMDEwNzAxMDEwMTA3MDEwMTAxMDYwMTAxMDEwNjEzMGEwYTBhMGMwYTA5MGEwYzA5MDkwOTBjMDkwYTE0MjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAyMDAwMDAwMjAwMjAwMDAwMjAwMDAwMDIwMDIwMDAwMDIwMDAwMDAyMDAyMjIyMjAyMjAyMjAyMjAwMjAwMDIwMDIwMDAwMDIwMDIwMjAyMDIyMDAwMDAyMDAyMDIwMDAyMjAyMDIwMjIyMjIyMjIwMjIwMjAwMDIwMDIwMDAyMDAwMDIwMDAyMDAyMDIwMDAyMDAyMDIyMjAyMjIyMjIyMjIyMjAwMDIwMDIwMDIwMDAyMDIwMjAyMjAyMjAyMDIwMjAyMDAwMjAwMjIwMDAyMDAwMjAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundSouthWest1",
+            "sprites.dungeon.doorOpenNorth",
+            "sprites.dungeon.doorOpenSouth",
+            "sprites.dungeon.purpleOuterNorth1",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterEast0",
+            "sprites.dungeon.purpleOuterWest1",
+            "sprites.dungeon.purpleInnerNorthWest",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterSouth0",
+            "sprites.dungeon.purpleOuterEast2",
+            "sprites.dungeon.purpleOuterSouth2",
+            "sprites.dungeon.purpleOuterWest2",
+            "sprites.dungeon.purpleOuterNorth2",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterNorth0",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.purpleOuterEast1",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterSouthWest"
+        ],
+        "displayName": "level6"
+    },
+    "level8": {
+        "id": "level8",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMjAyMDIwNjA1MDUwNjA1MDUwNjAxMDEwMTAxMDcwNDA0MDQwNDA2MDUwNTA2MDUwNTA2MDMwMzAzMDEwNzA0MDQwNDA0MDYwNTA1MDYwNTA1MDYwMTAzMDEwMTA3MDQwMjAzMDEwNjA1MDUwNjA1MDUwNjA0MDMwMTAxMDcwMTA0MDEwMzA2MDUwNTA2MDUwNTA2MDMwMzAxMDMwNzAxMDIwNDA0MDYwNTA1MDYwNTA1MDYwMzAzMDMwNDA3MDQwMTAxMDMwNjA1MDUwNjA1MDUwNjAzMDMwMTA0MDcwNDA0MDQwMzA2MDUwNTA2MDUwNTA2MDEwMzAxMDQwNzA0MDEwNDA0MDYwNTA1MDYwNTA1MDYwMTAzMDEwNDA3MDQwMTA0MDMwNjA1MDUwNjA1MDUwNjAzMDMwMTA0MDcwNDAxMDQwMzA2MDUwNTA2MDUwNTA2MDEwMzAxMDQwNzA0MDQwNDA0MDYwNTA1MDYwNTA1MDYwMTAzMDEwNDA3MDEwMTA0MDQwNjA1MDUwNjA1MDUwNjA0MDMwNDAyMDcwMzA0MDEwMTA2MDUwNTA2MDUwNTA2MDIwNDAxMDIwNzA0MDEwMTA0MDYwNTA1MDYwNTA1MDYwMjAzMDIwMjA3MDEwMTAxMDEwNjA1MDUwNjA1MDUwNjAxMDEwMzAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tileGrass3",
+            "sprites.skillmap.islandTile4",
+            "sprites.vehicle.roadVertical",
+            "myTiles.tile2",
+            "myTiles.tile3"
+        ],
+        "displayName": "level8"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
